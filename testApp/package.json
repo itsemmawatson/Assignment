@@ -7,11 +7,7 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-<<<<<<< HEAD
     "e2e": "ng e2e",
-=======
-    "e2e": "ng e2e"
->>>>>>> 3dc91c816013aeb14e9f75599406fabb1646a8c4
     "postinstall": "ng build --aot --target=production"
   },
   "private": true,
